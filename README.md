@@ -38,3 +38,7 @@
 - `git remote add origin  <REMOTE_URL>`
 - `git remote -v`
 - `git push origin main`
+
+### CLoning an existing repo
+
+- `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
